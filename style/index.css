@@ -143,3 +143,11 @@ iframe{
 .prag-right{
     flex-basis: 40%;
 }
+@media screen and (max-width: 650px) {
+       .prgandimg{
+     flex-basis: 90%;
+    }
+    .fiveimg img {
+        height: 10em;
+    }
+}
